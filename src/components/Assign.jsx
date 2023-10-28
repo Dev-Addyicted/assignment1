@@ -12,6 +12,22 @@ const Assign = () => {
         <Grid container spacing={2}>
             <Grid item xs={1}></Grid>
             <Grid item xs={10}>
+                <TableContainer sx={{ position: "relative", left: 866, top: 210 }}>
+                    <Table sx={{ bgcolor: "#fff3cd", height: "4px", width: "400px" }}>
+                        <TableHead>
+                            <TableRow>
+                                <TableCell sx={{ borderRight: "1px solid lightgrey" }}>
+                                    <i>Last Updated:</i>
+                                </TableCell>
+                                <TableCell >
+                                    <i><b>20th July 2022</b> </i>
+                                </TableCell>
+                            </TableRow>
+                        </TableHead>
+                    </Table>
+
+
+                </TableContainer>
                 <TableContainer component={Paper} sx={{ marginTop: 30 }}>
                     <Table>
                         <TableHead>
