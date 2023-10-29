@@ -62,20 +62,20 @@ const Privacypolicy = () => {
 
 
                     Herr Enterprises collects certain Personal Data from its Employees and Job Applicants, including without limitation (collectively, the "HR Data").
-                    name,
-                    home address,
-                    telephone number(s),
-                    date of birth,
-                    social security number or other government identification number,
-                    salary,
-                    bank account details,
-                    job title,
-                    employment contracts,
-                    reviews and appraisals, competency assessments
-                    business travel details
-                    disciplinary records
-                    IP address, system-generated logs
-                    facts reported through the whistleblowing hotline or regular information and reporting channels,
+                    name,<br />
+                    home address,<br />
+                    telephone number(s),<br />
+                    date of birth,<br />
+                    social security number or other government identification number,<br />
+                    salary,<br />
+                    bank account details,<br />
+                    job title,<br />
+                    employment contracts,<br />
+                    reviews and appraisals, competency assessments <br />
+                    business travel details <br />
+                    disciplinary records <br />
+                    IP address, system-generated logs <br />
+                    facts reported through the whistleblowing hotline or regular information and reporting channels, <br />
                     evidence gathered in the course of the investigation, report of the investigation and outcome of the report
 
 
@@ -106,6 +106,53 @@ const Privacypolicy = () => {
                 <p>Your data will be stored and processed in multiple countries including outside of the European Union (EU) Region. The Service and the servers and facilities that maintain the data we hold, are operated in the Sweden/India. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in United States/India.
                 </p>
                 <h2><b>Accountability for onward transfer</b></h2>
+                <p>Data Integrity & Purpose Limitation</p>
+                <p>Any personal information received from publishers in which personal data of EU citizens may be contained is treated as "EU Sensitive Data" and adequate technical and administrative controls are implemented across all the Herr Enterprises entities.</p>
+                <p>The personal information is used only for the purpose for which it has been collected and is shared within the organization on a need to know basis.</p>
+                <p>The technical and administrative controls ensure preservation of the confidentiality, integrity and availability of information as per the contractual obligations that Herr Enterprises has committed itself to. Data Security</p>
+                <p>Herr Enterprises maintain reasonable and appropriate security measures to protect data and information under its control from unauthorized access, disclosure, misuse, loss or alteration.</p>
+                <p>Herr Enterprise's security measures include industry-standard technology and equipment to help protect your information, and Herr Enterprises maintains security measures to allow only the appropriate personnel and contractors access to your information as well as policies and procedures to support implementation of various security controls. Unfortunately, no system can ensure complete security, and Herr Enterprises disclaims any liability resulting from use of the Service or from third party hacking events or intrusions.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Data Retention</Typography>
+                <h2><b>Customer Data:</b></h2>
+                <p>We will retain this information for as long as needed to provide services to any one of our Customers or as otherwise authorized, directed or permissioned by our Customers. In addition, Herr Enterprises will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+                <h2><b>Other Data</b></h2>
+                <p>We will retain this information for the duration of our business relationship and afterwards for as long as is necessary and relevant for our legitimate business purposes, in accordance with the Herr Enterprises Data Retention Policy or as otherwise permitted applicable laws and regulation. Where we no longer need your personal information, we will dispose of it in a secure manner (without further notice to you). Retention period for personal data and rationale for retention period is defined in Herr Enterprise's "Data Retention Policy".</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Your GDPR Rights</Typography>
+                <p>You can request to access, update or correct your personal information. You also have the right to object to direct marketing.</p>
+                <p>You may have additional rights pursuant to your local law applicable to the processing. For example: If the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.</p>
+                <p>If your personal information is processed under the Principles of the EU-U.S. Privacy Shield, you have the right to access to personal information about you that we hold and be able to correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated.</p>
+                <h2><b>Your Rights to Control Data</b></h2>
+                <p>Whenever you use our services, we aim to provide you easy means to access, modify, delete, object to or restrict use of your personal information.
+                    We strive to give you ways to access, update/modify your data quickly or to delete it unless we have to keep that information for legal purposes. Some rights can be accessed from within the Herr Enterprises application. For visitors, these rights can be exercised by contacting us with your specific request.</p>
+                <p>If you are based within the EEA, or within another jurisdiction having similar data protection laws, in certain circumstances you have the following rights:
+                    Change or Correct Data: You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it is inaccurate.</p>
+                <p>Delete Data: You can ask us to erase or delete all or some of your personal data (e.g. if it is no longer necessary to provide Services to you).
+                    Object to, or Limit or Restrict, Use of Data: You can ask us to stop using all or some of your personal data (e.g. if we have no legal right to keep using it) or to limit our use of it (e.g. if your personal data is inaccurate or unlawfully held).</p>
+                <p>Right to Access and/or Take Your Data: You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.</p>
+                <p>If you wish to access, verify, correct, or update your personal Information collected through the Service, you may contact us at info@herr-enterprises.com
+                </p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Herr Enterprises Services</Typography>
+                <p>Herr Enterprises also collects information under the direction of any one of its Customers, in which case it collects cookie identifiers from the individuals. If you are a customer of any one of our Customers and would no longer like to be contacted by our Customer that uses our Service, please contact the Customer that you interact with directly. We may transfer personal information to companies that help us provide our Service. Transfers to subsequent third parties are covered by the service agreements with our Customers.</p>
+                <p>An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the pertinent Herr Enterprise's Customer (the data controller).</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Other Web Sites</Typography>
+                <p>The Service may contain links to, or integrations with other sites that Herr Enterprises does not own or operate. This includes links from customers and partners that may use the Herr Enterprises logo in a co-branding agreement, or websites and web services that we work with in order to provide the Service. Herr Enterprises does not control, nor is Herr Enterprises responsible for these sites or services, or their content, products, services, privacy policies or practices. If you submit personal information on a web site using the Service, you are choosing to disclose information to both Herr Enterprises and the third party with whose brand the website is associated. This privacy policy only governs Herr Enterprise's use of your information. The third party's use of that personal Information is governed by the partner's privacy policy, and not by this privacy policy.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Business Sale</Typography>
+                <p>As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, or a sale of our significant assets, we reserve the right to include any information we have among the assets transferred to the acquiring company.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Social Media Widgets
+                </Typography>
+                <p>Our website includes social media features, such as the "Facebook Like" button, and Widgets, such as the "Share This" button or interactive mini-programs that run on our website. These features may collect your internet protocol address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy statement of the company providing them.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Blogs
+                </Typography>
+                <p>Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at info@herr-enterprises.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Changes to our Privacy Policy
+                </Typography>
+                <p>Please note, we may modify information presented via the Service and/or this privacy policy from time to time without prior notice to you, and any changes will be effective immediately upon the posting of the revised privacy policy. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. You are encouraged to periodically revisit the Herr Enterprises Privacy Policy to see if it has been updated. We will always show the date of the latest modification date of the Privacy Policy at the top of the page so you can tell when it has last been revised.</p>
+                <Typography variant='h4' sx={{ color: "#03a4ed" }}>Contact Us
+                </Typography>
+                <p>We regularly review our compliance with this privacy policy. Questions, comments and requests regarding this privacy policy are welcome and should be addressed to: info@herr-enterprises.com or call us at +12132123919</p>
+
+
+
 
 
 
